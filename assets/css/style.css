@@ -1,0 +1,15 @@
+html,body {
+    margin:0;
+    padding:0;
+    background-color: rgb(250, 228, 199);
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: larger;
+    color: slategray;
+    text-align: center;
+}
